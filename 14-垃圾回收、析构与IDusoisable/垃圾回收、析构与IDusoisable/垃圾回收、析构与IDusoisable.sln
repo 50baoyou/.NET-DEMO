@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "垃圾回收GC", "垃圾回收GC\垃圾回收GC.csproj", "{1924E64D-495E-4BD5-8012-B0B4ECF3BD82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "使用IDisposable", "IDisposable\使用IDisposable.csproj", "{A4B587E2-5945-4A71-8BA7-73FF249BFA2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1924E64D-495E-4BD5-8012-B0B4ECF3BD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1924E64D-495E-4BD5-8012-B0B4ECF3BD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1924E64D-495E-4BD5-8012-B0B4ECF3BD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1924E64D-495E-4BD5-8012-B0B4ECF3BD82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B587E2-5945-4A71-8BA7-73FF249BFA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B587E2-5945-4A71-8BA7-73FF249BFA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B587E2-5945-4A71-8BA7-73FF249BFA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B587E2-5945-4A71-8BA7-73FF249BFA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D84808-8034-434C-A9BB-39FFC6B21DFD}
+	EndGlobalSection
+EndGlobal
